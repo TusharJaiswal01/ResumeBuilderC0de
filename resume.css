@@ -1,0 +1,154 @@
+body{
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: radial-gradient(red,blue,yellow);
+  }.text-center{
+    margin-top: 30px;
+    margin-left:480px;
+  
+  }
+  
+   .row{
+    display: flex;
+    justify-content: space-around; }
+    .row1{
+      font-size: 20px;
+      font-weight: 900;
+    }
+    .row2{
+      font-size: 20px;
+      font-weight: 900;
+  
+    }
+    .row1:hover{
+      border: 2px solid lightgreen   ;
+      shape-outside: -moz-linear-gradient(black,yellow);
+    }
+   
+   #input{
+    /* margin-left: 200px; */
+    height: 1.5rem;
+    width: 33rem;
+   
+   }
+   #input:hover{
+    border: 2px solid rgba(0, 0, 255, 0.5);
+   }
+   .name{
+    margin-left: 30px;
+    font-weight: 900px;
+   }
+   .name1{
+    margin-left:50px ;
+    font-weight: bold;
+   }
+   #input1{
+    height: 3rem;
+    width: 33rem;
+   }
+   #input1:hover{
+    border: 2px solid rgba(0, 0, 255, 0.5);
+   }
+   
+   .hero-section{
+    display: flex;
+   }
+  .divide{
+    display: inline-block;
+    display: flex;
+  
+  }
+  .table1{
+    margin-left: 50px;
+  }
+  #input2{
+    height: 5rem;
+    width: 33rem;
+   }
+   #input2:hover{
+    border: 2px solid rgba(0, 0, 255, 0.5);
+   }
+   .btn{
+    margin-left: 250px;
+    color: blue;
+  
+   }
+    .btn:hover{
+    border: 2px solid black;
+   }
+  #v{
+    display: none;
+  }
+  #u{
+    display: none;
+  }
+  .gen-btn{
+    background-color: rgba(0, 255, 0, 0.5);
+    background: radial-gradient(red,blue);
+    height: 3rem;
+    width: 8rem;
+    border-radius: 5px;
+    color: white;
+    
+  }
+  .btn-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    
+  }
+  .gen-btn:hover{
+    border: 2px solid yellow;
+  
+    
+  }
+  
+   .mid{
+  display: flex;
+  justify-content: space-evenly;
+   }
+   .mid1{
+  background-color: rgba(0, 0, 0, 0.85);
+  
+  height: 100vh;
+  width: 50vw;  
+  margin-top: 5rem;
+  }
+  .mid1 img{
+    margin-left: 140px;
+    margin-top: 50px;
+  }
+  .img-name{
+   
+    margin-left: 180px;
+    color:rgba(150, 130, 60,1 );
+  }
+   .mid2{
+  background-color: white;
+  height: 100vh;
+  width: 100vh;
+  margin-top:5rem ;
+   }
+   .img-para{
+    margin-left: 180px;
+    color:rgba(150, 130, 60,1 );
+   }
+   .mid1 a{
+    margin-left: 180px;
+    color:rgba(150, 130, 60,1 );
+    text-decoration: none;
+   }
+  .mid2 h2{
+    background-color: rgba(150, 150, 170,0.85 );
+    padding-top: 10px;
+  }
+     .mid-1{
+  box-shadow: 1;
+     }
+    
+  
+  .mid-2{
+    margin-top: 100px;
+  }
+  
